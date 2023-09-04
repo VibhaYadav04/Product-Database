@@ -1,4 +1,4 @@
-![3 after adding](https://github.com/VibhaYadav04/Product-Database/assets/110171547/0c7d2753-acca-4329-a68a-49114baf652e)# Product-Database
+# Product-Database
 
 Create data, Read the data, Update data and Delete data has been shown here. 
 Data are stored in MySQL Workbench. The CRUD Application is made using Spring MVC.
