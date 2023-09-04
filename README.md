@@ -1,4 +1,4 @@
-# Product-Database
+![3 after adding](https://github.com/VibhaYadav04/Product-Database/assets/110171547/0c7d2753-acca-4329-a68a-49114baf652e)# Product-Database
 
 Create data, Read the data, Update data and Delete data has been shown here. 
 Data are stored in MySQL Workbench. The CRUD Application is made using Spring MVC.
@@ -11,18 +11,24 @@ MySQL Workbench
 
 # Screenshots
 Home Page
-![1 home](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/23bec364-06a2-45ea-a00f-a3a22cf4322b)
+![1 home](https://github.com/VibhaYadav04/Product-Database/assets/110171547/693accdc-697f-4515-85dd-5dacff539d5e)
+
 Adding data
-![2 add product](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/e32cbb01-2b57-4b36-a2bf-edd76a2e06ae)
+![2 add product](https://github.com/VibhaYadav04/Product-Database/assets/110171547/856397eb-10dd-4524-897c-7bc925af19b7)
+
 After adding data
-![3 after adding](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/dd0651db-add2-415a-bdbc-ea8bab31ca0d)
+![3 after adding](https://github.com/VibhaYadav04/Product-Database/assets/110171547/8f8a4584-f3cd-40b9-abd8-70d36ad21f7d)
+
 Deleting TECHONLY 5 and displayed the remaining
-![4 delete techonly5](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/97d031b0-f3f3-4982-b4f4-61fdbf19df0e)
+![4 delete techonly5](https://github.com/VibhaYadav04/Product-Database/assets/110171547/58aaa1ba-774a-45be-8882-94a46fe57cbb)
+
 Updating data
-![5 update](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/e09c2960-2ac5-46ae-a565-50384719a0c4)
+![5 update](https://github.com/VibhaYadav04/Product-Database/assets/110171547/f9363bae-9494-4c95-a2ec-48a05755bfdd)
+
 After Updating
-![6 after updating](https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/1552822e-eac7-4694-95ac-c0aee727a790)
+
+![6 after updating](https://github.com/VibhaYadav04/Product-Database/assets/110171547/3a018d03-ab94-48ad-8d5f-062ae6e5f135)
 
 # Project Demo
-https://github.com/VibhaYadav04/CRUD-Application-using-Spring-MVC/assets/110171547/14ec703f-ad12-4624-b7a4-dabc70a1ca3e
+https://github.com/VibhaYadav04/Product-Database/assets/110171547/889f8ba8-6fc1-403e-837b-a2c7cc97d65d
 
